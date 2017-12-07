@@ -13,3 +13,4 @@ def collatz(input):
 value = input("Please enter a integer \n")
 collatz(value)
 print("There you go it's 1")
+#GHewllo
